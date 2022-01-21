@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+}
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_deJ_c-XDv7gJvUfOQ0ELlRLZeq-HoKND5g&usqp=CAU) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
