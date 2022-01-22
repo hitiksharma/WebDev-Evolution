@@ -1,0 +1,32 @@
+h1{
+  text-align:center;
+  font-family:Monospace;
+}
+h2{
+  font-family:Poppins, Monospace;
+}
+h3{
+  font-family:Poppins;
+}
+body{
+  background-color:	#F0FFF0;
+}
+.code-image{
+   position: absolute;
+  right: 0px;
+  height:90%;
+  width: 25%;
+  padding:3em;
+  margin: -2em;
+  
+}
+.a{
+  font-size:15px;
+  text-align:center;
+  font-family:Monospace;
+}
+.div-text{
+  background-color:;
+  font-family:Monospace;
+  font-size:15px;
+}
