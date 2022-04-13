@@ -1,0 +1,77 @@
+body{
+    background: url(Digit\ \(116\).jpg) no-repeat center center fixed; 
+    height: 10%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3{
+    color: white;
+    font-family: Poppins;
+    font-size: 50px;
+}
+h1{
+  color:white;
+  font-family: :Roboto;
+  font-size: 100px;
+}
+
+.container
+{
+padding: 0px 20px;}
+
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0px 50px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav a.active {
+    color: white;
+    text-decoration: underline;
+  }
+  a.btn-first
+{border-radius: 25px;
+color: #fff;
+width: 80px; 
+}
+a.btn-second
+{background-color: white;
+    border-radius: 25px;
+    color:purple;
+    width: 80px; 
+}
+a.btn-first:hover
+{background: transparent;
+border:1px solid #8c6a58;
+color:white;
+box-shadow:5px 5px 10px #fff;
+transition:0.3s;
+}
+
+a.btn-second:hover
+{background: transparent;
+border:none;
+color:#fff;
+box-shadow:5px 5px 10px #999;
+transition:0.3s;}
+
+
+.video{
+  float: right;
+}
+.elementor-icon{
+  color: white;
+  float: right;
+}
